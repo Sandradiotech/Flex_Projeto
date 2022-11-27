@@ -13,4 +13,4 @@
 
 ## Projeto
 
-[Flex Turismo](https://github.com/Sandradiotech/Flex_Projeto/blob/main/Flexbox/index.html)
+[Flex Turismo](https://github.com/Sandradiotech/Flex_Projeto/tree/main/Flexbox)
