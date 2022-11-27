@@ -4,7 +4,7 @@
 
 ## GitLab
 
-[Flexbox_CSS3](gitlab.com/karensantos/project-flexbox-dio)
+[Flexbox_CSS3](https://github.com/Sandradiotech/Flexbox_CSS/tree/main/Flexbox)
 
 
 ## Slides
